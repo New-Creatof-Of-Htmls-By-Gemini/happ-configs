@@ -1,5 +1,6 @@
-#profile-title: Azoel22_Elite
+#profile-title: Azoel22_Direct
 #profile-update-interval: 1
 
-vless://85538187-2f43-45d5-bed3-358d377fb8d7@107.170.145.187:443?security=reality&encryption=none&pbk=RHvNDMCFeCL1nIKFoCmnmZYJNofBMPJ77jNMACstVGQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=6ba12000#🇩🇪_Alpha_Vision
-vless://96238187-2f43-45d5-bed3-358d377fb8d7@185.105.108.11:443?security=reality&encryption=none&pbk=fKLb3LN5Zfoz1Eg58ocDjHoQDjuJjixkChcybgsU1zI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=6ba12000#🇺🇸_Beta_Vision
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3aUdRUWZ3bA==@162.159.137.105:443#🇩🇪_DE_Alpha_SS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3aUdRUWZ3bA==@162.159.138.105:443#🇺🇸_US_Beta_SS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3aUdRUWZ3bA==@104.16.132.229:443#🇷🇺_RU_Gamma_SS
