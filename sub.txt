@@ -1,1 +1,11 @@
-vless://7iGQQfwl@144.76.173.169:443?security=reality&encryption=none&pbk=zpCtEgfic9lWccuFZD2E-Es2UtjhmZBN&headerType=none&fp=chrome&type=tcp&sni=www.google.com#🇩🇪 Germany #01
+#profile-title: Azoel22 Global Network #01
+#profile-update-interval: 1
+
+vless://550e8400-e29b-41d4-a716-446655440000@144.76.173.169:443?security=reality&encryption=none&pbk=qV9_O7A0e-Q0a4_g9Xl8x_1t5H6e3V2x_u4a5P6s7d8&type=tcp&sni=www.google.com#🇩🇪 Germany #01
+vless://550e8400-e29b-41d4-a716-446655440000@8.8.8.8:443?security=reality&encryption=none&pbk=qV9_O7A0e-Q0a4_g9Xl8x_1t5H6e3V2x_u4a5P6s7d8&type=tcp&sni=www.microsoft.com#🇺🇸 USA #01
+vless://550e8400-e29b-41d4-a716-446655440000@1.1.1.1:443?security=reality&encryption=none&pbk=qV9_O7A0e-Q0a4_g9Xl8x_1t5H6e3V2x_u4a5P6s7d8&type=tcp&sni=www.cloudflare.com#🇦🇺 Australia #01
+vless://550e8400-e29b-41d4-a716-446655440000@208.67.222.222:443?security=reality&encryption=none&pbk=qV9_O7A0e-Q0a4_g9Xl8x_1t5H6e3V2x_u4a5P6s7d8&type=tcp&sni=www.yahoo.com#🇬🇧 United Kingdom #01
+vless://550e8400-e29b-41d4-a716-446655440000@101.101.101.101:443?security=reality&encryption=none&pbk=qV9_O7A0e-Q0a4_g9Xl8x_1t5H6e3V2x_u4a5P6s7d8&type=tcp&sni=www.line.me#🇹🇼 Taiwan #01
+vless://550e8400-e29b-41d4-a716-446655440000@77.88.8.8:443?security=reality&encryption=none&pbk=qV9_O7A0e-Q0a4_g9Xl8x_1t5H6e3V2x_u4a5P6s7d8&type=tcp&sni=www.yandex.ru#🇷🇺 Russia #01
+vless://550e8400-e29b-41d4-a716-446655440000@185.228.168.9:443?security=reality&encryption=none&pbk=qV9_O7A0e-Q0a4_g9Xl8x_1t5H6e3V2x_u4a5P6s7d8&type=tcp&sni=www.netflix.com#🇫🇷 France #01
+vless://550e8400-e29b-41d4-a716-446655440000@9.9.9.9:443?security=reality&encryption=none&pbk=qV9_O7A0e-Q0a4_g9Xl8x_1t5H6e3V2x_u4a5P6s7d8&type=tcp&sni=www.quad9.net#🇨🇭 Switzerland #01
