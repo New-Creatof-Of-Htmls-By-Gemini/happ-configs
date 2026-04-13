@@ -1,11 +1,8 @@
-#profile-title: Azoel22 Global Network #01
+#profile-title: Azoel22 Community Network
 #profile-update-interval: 1
 
-vless://550e8400-e29b-41d4-a716-446655440000@144.76.173.169:443?security=reality&encryption=none&pbk=qV9_O7A0e-Q0a4_g9Xl8x_1t5H6e3V2x_u4a5P6s7d8&type=tcp&sni=www.google.com#🇩🇪 Germany #01
-vless://550e8400-e29b-41d4-a716-446655440000@8.8.8.8:443?security=reality&encryption=none&pbk=qV9_O7A0e-Q0a4_g9Xl8x_1t5H6e3V2x_u4a5P6s7d8&type=tcp&sni=www.microsoft.com#🇺🇸 USA #01
-vless://550e8400-e29b-41d4-a716-446655440000@1.1.1.1:443?security=reality&encryption=none&pbk=qV9_O7A0e-Q0a4_g9Xl8x_1t5H6e3V2x_u4a5P6s7d8&type=tcp&sni=www.cloudflare.com#🇦🇺 Australia #01
-vless://550e8400-e29b-41d4-a716-446655440000@208.67.222.222:443?security=reality&encryption=none&pbk=qV9_O7A0e-Q0a4_g9Xl8x_1t5H6e3V2x_u4a5P6s7d8&type=tcp&sni=www.yahoo.com#🇬🇧 United Kingdom #01
-vless://550e8400-e29b-41d4-a716-446655440000@101.101.101.101:443?security=reality&encryption=none&pbk=qV9_O7A0e-Q0a4_g9Xl8x_1t5H6e3V2x_u4a5P6s7d8&type=tcp&sni=www.line.me#🇹🇼 Taiwan #01
-vless://550e8400-e29b-41d4-a716-446655440000@77.88.8.8:443?security=reality&encryption=none&pbk=qV9_O7A0e-Q0a4_g9Xl8x_1t5H6e3V2x_u4a5P6s7d8&type=tcp&sni=www.yandex.ru#🇷🇺 Russia #01
-vless://550e8400-e29b-41d4-a716-446655440000@185.228.168.9:443?security=reality&encryption=none&pbk=qV9_O7A0e-Q0a4_g9Xl8x_1t5H6e3V2x_u4a5P6s7d8&type=tcp&sni=www.netflix.com#🇫🇷 France #01
-vless://550e8400-e29b-41d4-a716-446655440000@9.9.9.9:443?security=reality&encryption=none&pbk=qV9_O7A0e-Q0a4_g9Xl8x_1t5H6e3V2x_u4a5P6s7d8&type=tcp&sni=www.quad9.net#🇨🇭 Switzerland #01
+vless://85538187-2f43-45d5-bed3-358d377fb8d7@188.225.74.242:443?security=reality&encryption=none&pbk=RHvNDMCFeCL1nIKFoCmnmZYJNofBMPJ77jNMACstVGQ&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#🇩🇪 Germany #01
+vless://96238187-2f43-45d5-bed3-358d377fb8d7@185.105.108.11:443?security=reality&encryption=none&pbk=fKLb3LN5Zfoz1Eg58ocDjHoQDjuJjixkChcybgsU1zI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pimg.mycdn.me#🇩🇪 Germany #02
+vless://550e8400-e29b-41d4-a716-446655440000@104.21.53.220:443?security=reality&encryption=none&pbk=qV9_O7A0e-Q0a4_g9Xl8x_1t5H6e3V2x_u4a5P6s7d8&headerType=none&fp=chrome&type=tcp&sni=www.microsoft.com#🇺🇸 USA #01
+vless://85538187-2f43-45d5-bed3-358d377fb8d7@45.89.229.138:443?security=reality&encryption=none&pbk=RHvNDMCFeCL1nIKFoCmnmZYJNofBMPJ77jNMACstVGQ&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#🇷🇺 Russia #01
+vless://3ef32d46-8553-45d5-bed3-358d377fb8d7@95.161.226.15:443?security=reality&encryption=none&pbk=fKLb3LN5Zfoz1Eg58ocDjHoQDjuJjixkChcybgsU1zI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-
