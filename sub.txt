@@ -1,7 +1,6 @@
-#profile-title: Azoel22 Emergency Net
+#profile-title: Azoel22 Zero-Cost Rescue
 #profile-update-interval: 1
 
-vless://85538187-2f43-45d5-bed3-358d377fb8d7@188.225.74.242:443?security=reality&encryption=none&pbk=RHvNDMCFeCL1nIKFoCmnmZYJNofBMPJ77jNMACstVGQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google.com#🇩🇪_Germany_Active
-vless://96238187-2f43-45d5-bed3-358d377fb8d7@185.105.108.11:443?security=reality&encryption=none&pbk=fKLb3LN5Zfoz1Eg58ocDjHoQDjuJjixkChcybgsU1zI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#🇩🇪_Germany_Backup
-vless://d3cb8187-2f43-45d5-bed3-358d377fb8d7@45.89.229.138:443?security=reality&encryption=none&pbk=RHvNDMCFeCL1nIKFoCmnmZYJNofBMPJ77jNMACstVGQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.wikipedia.org#🇷🇺_Russia_Active
-vless://3ef32d46-8553-45d5-bed3-358d377fb8d7@95.161.226.15:443?security=reality&encryption=none&pbk=fKLb3LN5Zfoz1Eg58ocDjHoQDjuJjixkChcybgsU1zI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yandex.ru#🇷🇺_Russia_Backup
+vless://b7a392e2-9d54-4f9b-bc98-d144e1388b14@skk.moe:443?encryption=none&security=tls&sni=germany.vless.free&type=ws&host=germany.vless.free&path=%2F%3Fed%3D2048#🇩🇪_Germany_Worker
+vless://cf823351-2401-4081-80a5-f865363f6834@visa.com:443?encryption=none&security=tls&sni=usa.vless.free&type=ws&host=usa.vless.free&path=%2F%3Fed%3D2048#🇺🇸_USA_Worker
+vless://96238187-2f43-45d5-bed3-358d377fb8d7@www.speedtest.net:443?security=reality&encryption=none&pbk=fKLb3LN5Zfoz1Eg58ocDjHoQDjuJjixkChcybgsU1zI&headerType=none&fp=chrome&type=grpc&serviceName=grpc-test&sni=www.microsoft.com#🇷🇺_Russia_DPI_Bypass
