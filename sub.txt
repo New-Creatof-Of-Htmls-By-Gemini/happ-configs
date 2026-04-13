@@ -1,6 +1,6 @@
-#profile-title: Azoel22_Rescue
+#profile-title: Azoel22_Private_Tunnel
 #profile-update-interval: 1
 
-vless://85538187-2f43-45d5-bed3-358d377fb8d7@162.159.137.105:443?security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=grpc-test&allowInsecure=1&sni=www.google.com#🇩🇪_DE_Alpha
-vless://96238187-2f43-45d5-bed3-358d377fb8d7@162.159.138.105:443?security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=grpc-test&allowInsecure=1&sni=www.microsoft.com#🇺🇸_US_Beta
-vless://b7a392e2-9d54-4f9b-bc98-d144e1388b14@172.67.73.101:443?security=tls&encryption=none&alpn=h2&fp=chrome&type=ws&host=rkn-bypass.azoel.workers.dev&path=%2F%3Fed%3D2048&allowInsecure=1&sni=www.wikipedia.org#🇷🇺_RU_Gamma
+vless://85538187-2f43-45d5-bed3-358d377fb8d7@162.159.137.105:443?security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=grpc-test&allowInsecure=1&sni=www.sberbank.ru#🇩🇪_Alpha_Private
+vless://96238187-2f43-45d5-bed3-358d377fb8d7@162.159.138.105:443?security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=grpc-test&allowInsecure=1&sni=www.gosuslugi.ru#🇺🇸_Beta_Private
+vless://b7a392e2-9d54-4f9b-bc98-d144e1388b14@172.67.73.101:443?security=tls&encryption=none&alpn=h2&fp=chrome&type=ws&host=rkn-bypass.azoel.workers.dev&path=%2F%3Fed%3D2048&allowInsecure=1&sni=www.speedtest.net#🇷🇺_Gamma_Private
