@@ -1,7 +1,6 @@
-#profile-title: Azoel22 Protocol Swap
+#profile-title: Azoel22 Model-X
 #profile-update-interval: 1
 
-trojan://7iGQQfwl@188.225.74.242:443?security=tls&sni=www.sberbank.ru&allowInsecure=1#🇷🇺_Russia_Trojan_Safe
-trojan://7iGQQfwl@185.105.108.11:443?security=tls&sni=www.gosuslugi.ru&allowInsecure=1#🇷🇺_Russia_Trojan_Gov
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3aUdRUWZ3bA==@144.76.173.169:443#🇩🇪_Germany_SS_Classic
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3aUdRUWZ3bA==@107.170.145.187:443#🇺🇸_New_York_SS_Classic
+vless://85538187-2f43-45d5-bed3-358d377fb8d7@162.159.137.105:443?security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=grpc-test&sni=www.google.com#🇷🇺_Russia_gRPC_Clean
+vless://96238187-2f43-45d5-bed3-358d377fb8d7@162.159.138.105:443?security=tls&encryption=none&alpn=h2&fp=safari&type=grpc&serviceName=grpc-test&sni=www.microsoft.com#🇩🇪_Germany_gRPC_Clean
+vless://b7a392e2-9d54-4f9b-bc98-d144e1388b14@104.16.132.229:443?encryption=none&security=tls&sni=rkn-bypass.azoel.workers.dev&type=ws&host=rkn-bypass.azoel.workers.dev&path=%2F%3Fed%3D2048#🇺🇸_USA_WS_Ghost
