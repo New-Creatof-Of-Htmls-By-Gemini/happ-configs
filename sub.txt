@@ -1,4 +1,4 @@
-#profile-title: Azoel22 Ghost Net
+#profile-title: Azoel22 Ghost Nets
 #profile-update-interval: 1
 
 vless://b7a392e2-9d54-4f9b-bc98-d144e1388b14@104.16.132.229:443?encryption=none&security=tls&sni=rkn-bypass.azoel.workers.dev&type=ws&host=rkn-bypass.azoel.workers.dev&path=%2F%3Fed%3D2048#🇷🇺_Russia_Ghost_WS
