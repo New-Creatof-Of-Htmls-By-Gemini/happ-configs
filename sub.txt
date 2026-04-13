@@ -1,6 +1,6 @@
-#profile-title: Azoel22_Direct
+#profile-title: Azoel22_Final
 #profile-update-interval: 1
 
-vless://85538187-2f43-45d5-bed3-358d377fb8d7@162.159.137.105:443?security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=grpc-test&allowInsecure=1&sni=www.google.com#🇩🇪_Alpha_Direct
-vless://96238187-2f43-45d5-bed3-358d377fb8d7@162.159.138.105:443?security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=grpc-test&allowInsecure=1&sni=www.microsoft.com#🇺🇸_Beta_Direct
-vless://b7a392e2-9d54-4f9b-bc98-d144e1388b14@172.67.73.101:443?security=tls&encryption=none&type=ws&host=rkn-bypass.azoel.workers.dev&path=%2F%3Fed%3D2048&allowInsecure=1&sni=www.speedtest.net#🇷🇺_Gamma_Direct
+vless://85538187-2f43-45d5-bed3-358d377fb8d7@185.105.108.11:443?security=reality&encryption=none&pbk=fKLb3LN5Zfoz1Eg58ocDjHoQDjuJjixkChcybgsU1zI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.sberbank.ru&sid=6ba12000#🇩🇪_DE_Vision
+vless://96238187-2f43-45d5-bed3-358d377fb8d7@107.170.145.187:443?security=reality&encryption=none&pbk=RHvNDMCFeCL1nIKFoCmnmZYJNofBMPJ77jNMACstVGQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.gosuslugi.ru&sid=6ba12000#🇺🇸_US_Vision
+vless://b7a392e2-9d54-4f9b-bc98-d144e1388b14@172.67.73.101:443?security=tls&encryption=none&type=ws&host=rkn-bypass.azoel.workers.dev&path=%2F%3Fed%3D2048&allowInsecure=1&sni=www.wikipedia.org#🇷🇺_RU_Rescue
