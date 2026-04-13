@@ -1,6 +1,6 @@
-#profile-title: Azoel22 Final Rescue
+#profile-title: Azoel22 Ghost Net
 #profile-update-interval: 1
 
-vless://550e8400-e29b-41d4-a716-446655440000@107.170.145.187:443?security=reality&encryption=none&pbk=qV9_O7A0e-Q0a4_g9Xl8x_1t5H6e3V2x_u4a5P6s7d8&headerType=none&fp=chrome&type=tcp&sni=www.google.com#🇺🇸_New_York_Test
-vless://85538187-2f43-45d5-bed3-358d377fb8d7@188.225.74.242:443?security=reality&encryption=none&pbk=RHvNDMCFeCL1nIKFoCmnmZYJNofBMPJ77jNMACstVGQ&headerType=none&fp=chrome&type=grpc&serviceName=grpc-test&sni=www.sberbank.ru#🇷🇺_Russia_DPI_Bypass
-vless://96238187-2f43-45d5-bed3-358d377fb8d7@185.105.108.11:443?security=reality&encryption=none&pbk=fKLb3LN5Zfoz1Eg58ocDjHoQDjuJjixkChcybgsU1zI&headerType=none&fp=chrome&type=grpc&serviceName=grpc-test&sni=www.speedtest.net#🇩🇪_Germany_DPI_Bypass
+vless://b7a392e2-9d54-4f9b-bc98-d144e1388b14@104.16.132.229:443?encryption=none&security=tls&sni=rkn-bypass.azoel.workers.dev&type=ws&host=rkn-bypass.azoel.workers.dev&path=%2F%3Fed%3D2048#🇷🇺_Russia_Ghost_WS
+vless://cf823351-2401-4081-80a5-f865363f6834@172.67.73.101:443?encryption=none&security=tls&sni=usa-gate.azoel.workers.dev&type=ws&host=usa-gate.azoel.workers.dev&path=%2F%3Fed%3D2048#🇺🇸_USA_Ghost_WS
+vless://85538187-2f43-45d5-bed3-358d377fb8d7@104.21.53.220:443?encryption=none&security=tls&sni=de-entry.azoel.workers.dev&type=ws&host=de-entry.azoel.workers.dev&path=%2F%3Fed%3D2048#🇩🇪_Germany_Ghost_WS
