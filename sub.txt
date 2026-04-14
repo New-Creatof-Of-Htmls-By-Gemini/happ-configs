@@ -1,4 +1,4 @@
-#profile-title: Azoel_Private_Final
+#profile-title: Azoel_Private_Final_bun
 #profile-update-interval: 1
 
 vless://85538187-2f43-45d5-bed3-358d377fb8d7@185.105.108.11:443?encryption=none&security=reality&type=tcp&flow=xtls-rprx-vision&fp=chrome#🇩🇪_DE_Direct
