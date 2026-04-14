@@ -1,6 +1,6 @@
-#profile-title: Azoel21_Private
+#profile-title: Azoel21_Bypass
 #profile-update-interval: 1
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3aUdRUWZ3bA==@185.105.108.11:443#🇩🇪_DE_Private
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3aUdRUWZ3bA==@172.67.73.101:443#🇷🇺_RU_Private
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3aUdRUWZ3bA==@107.170.145.187:443#🇺🇸_US_Private
+vless://85538187-2f43-45d5-bed3-358d377fb8d7@185.105.108.11:443?security=reality&encryption=none&pbk=fKLb3LN5Zfoz1Eg58ocDjHoQDjuJjixkChcybgsU1zI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=6ba12000&fragment=10-20,10-100,tlshello#🇩🇪_DE_Private
+vless://96238187-2f43-45d5-bed3-358d377fb8d7@107.170.145.187:443?security=reality&encryption=none&pbk=RHvNDMCFeCL1nIKFoCmnmZYJNofBMPJ77jNMACstVGQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=6ba12000&fragment=10-20,10-100,tlshello#🇺🇸_US_Private
+vless://b7a392e2-9d54-4f9b-bc98-d144e1388b14@172.67.73.101:443?security=tls&encryption=none&type=ws&host=rkn-bypass.azoel.workers.dev&path=%2F%3Fed%3D2048&allowInsecure=1&sni=www.speedtest.net&fragment=10-20,10-100,tlshello#🇷🇺_RU_Private
