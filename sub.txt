@@ -1,6 +1,6 @@
-#profile-title: Azoel_Private_Final_bun
+#profile-title: Azoel_Private_Finals
 #profile-update-interval: 1
 
-vless://85538187-2f43-45d5-bed3-358d377fb8d7@185.105.108.11:443?encryption=none&security=reality&type=tcp&flow=xtls-rprx-vision&fp=chrome#🇩🇪_DE_Direct
-vless://96238187-2f43-45d5-bed3-358d377fb8d7@107.170.145.187:443?encryption=none&security=reality&type=tcp&flow=xtls-rprx-vision&fp=chrome#🇺🇸_US_Direct
+vless://85538187-2f43-45d5-bed3-358d377fb8d7@185.105.108.11:443?encryption=none&security=reality&type=tcp&flow=xtls-rprx-vision&fp=chrome&pbk=fKLb3LN5Zfoz1Eg58ocDjHoQDjuJjixkChcybgsU1zI&sid=6ba12000#🇩🇪_DE_Direct
+vless://96238187-2f43-45d5-bed3-358d377fb8d7@107.170.145.187:443?encryption=none&security=reality&type=tcp&flow=xtls-rprx-vision&fp=chrome&pbk=RHvNDMCFeCL1nIKFoCmnmZYJNofBMPJ77jNMACstVGQ&sid=6ba12000#🇺🇸_US_Direct
 vless://b7a392e2-9d54-4f9b-bc98-d144e1388b14@172.67.73.101:443?encryption=none&security=tls&type=ws&allowInsecure=1#🇷🇺_RU_Direct
