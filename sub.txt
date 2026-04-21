@@ -1,6 +1,6 @@
-#profile-title: Azoel_Private_Finals
+#profile-title: Azoel_Global_Private
 #profile-update-interval: 1
 
-vless://85538187-2f43-45d5-bed3-358d377fb8d7@185.105.108.11:443?encryption=none&security=reality&type=tcp&flow=xtls-rprx-vision&fp=chrome&pbk=fKLb3LN5Zfoz1Eg58ocDjHoQDjuJjixkChcybgsU1zI&sid=6ba12000#🇩🇪_DE_Direct
-vless://96238187-2f43-45d5-bed3-358d377fb8d7@107.170.145.187:443?encryption=none&security=reality&type=tcp&flow=xtls-rprx-vision&fp=chrome&pbk=RHvNDMCFeCL1nIKFoCmnmZYJNofBMPJ77jNMACstVGQ&sid=6ba12000#🇺🇸_US_Direct
-vless://b7a392e2-9d54-4f9b-bc98-d144e1388b14@172.67.73.101:443?encryption=none&security=tls&type=ws&allowInsecure=1#🇷🇺_RU_Direct
+vless://0b5d4737-0665-4b36-a941-0299f5362491@159.195.35.239:4356?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=files.moscownews24.ru#🇩🇪_Germany
+vless://37691d1d-72f2-41ae-b95a-36c4d4bedf01@stage.flowwow.app:23356?type=grpc&security=reality&encryption=none&fp=edge&pbk=REbCbLiQwWzmUHZgBc-oCO0CMtwgvWURtWkFjNfcQkk&sid=4149657667076e2b&sni=icloud.com&serviceName=api#🇷🇺_Russia
+vless://322ffd77-9adc-4e10-8302-a8bcc14555a0@150.241.75.226:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=google.com&fp=chrome&pbk=_e21PkbpGda7PXEBs8y8iJiKVkEYkZGR_Sfs5rCO_HM&sid=a1b2c3d4#🇺🇸_USA
